@@ -1,0 +1,173 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <id_Empresa>1</id_Empresa>
+    <nombreEmpresa>Empresa1</nombreEmpresa>
+    <rnc>123</rnc>
+    <estado>ACTIVO                   </estado>
+  </Table>
+  <Table>
+    <id_Empresa>3</id_Empresa>
+    <nombreEmpresa>Coraasan</nombreEmpresa>
+    <nombreLogo>C:\Users\LocalAdmin\Downloads\Desktop\LICITACION\Pla&amp;ProSoft\LOGOS INSTITUCIONES\logo Coraasan.png</nombreLogo>
+    <rnc />
+    <rpe />
+    <direccion>Santiago</direccion>
+    <telefono />
+    <nombreFiador />
+    <cedulaFiador>   -       -</cedulaFiador>
+    <nombreRepresentanteLegal />
+    <correoEmpresa>ee@gmail.com</correoEmpresa>
+    <enmiendas />
+    <nombreDirectorProyecto />
+    <cedulaDirector>   -       -</cedulaDirector>
+    <nombreIngResidente1 />
+    <cedulaIngResidente1>   -       -</cedulaIngResidente1>
+    <nombreIngResidente2 />
+    <cedulaIngResidente2>   -       -</cedulaIngResidente2>
+    <nombreIngResidente3>   -       -</nombreIngResidente3>
+    <cedulaIngResidente3>   -       -</cedulaIngResidente3>
+    <nombreSeguridad />
+    <cedulaSeguridad>   -       -</cedulaSeguridad>
+    <nombreEncargadoOficinaT />
+    <cedulaEncargadoOficinaT>   -       -</cedulaEncargadoOficinaT>
+    <nombreEncargadoTopoG />
+    <nombreArqResidente1 />
+    <cedulaArqResidente1>   -       -</cedulaArqResidente1>
+    <nombreArqResidente2 />
+    <cedulaArqResidente2>   -       -</cedulaArqResidente2>
+    <nombreArqResidente3>   -       -</nombreArqResidente3>
+    <cedulaArqResidente3>   -       -</cedulaArqResidente3>
+    <nombreAgeDesignado1 />
+    <nombreAgeDesignado2 />
+    <nombreAgeDesignado3 />
+    <estado>ACTIVO                   </estado>
+  </Table>
+  <Table>
+    <id_Empresa>4</id_Empresa>
+    <nombreEmpresa>BP</nombreEmpresa>
+    <nombreLogo>c</nombreLogo>
+    <rnc>45455</rnc>
+    <rpe />
+    <direccion>XX</direccion>
+    <telefono />
+    <nombreFiador />
+    <cedulaFiador>   -       -</cedulaFiador>
+    <nombreRepresentanteLegal />
+    <correoEmpresa>re@gmail.com</correoEmpresa>
+    <enmiendas />
+    <nombreDirectorProyecto />
+    <estado>ACTIVO                   </estado>
+  </Table>
+  <Table>
+    <id_Empresa>10</id_Empresa>
+    <nombreEmpresa>Linda Corporation</nombreEmpresa>
+    <nombreLogo>c</nombreLogo>
+    <rnc />
+    <rpe />
+    <direccion>Moca</direccion>
+    <telefono />
+    <nombreFiador />
+    <cedulaFiador>   -       -</cedulaFiador>
+    <nombreRepresentanteLegal />
+    <correoEmpresa>rr@gmail.com</correoEmpresa>
+    <enmiendas />
+    <nombreDirectorProyecto />
+    <cedulaDirector>   -       -</cedulaDirector>
+    <nombreIngResidente1 />
+    <cedulaIngResidente1>   -       -</cedulaIngResidente1>
+    <nombreIngResidente2 />
+    <cedulaIngResidente2>   -       -</cedulaIngResidente2>
+    <nombreIngResidente3 />
+    <cedulaIngResidente3>   -       -</cedulaIngResidente3>
+    <nombreSeguridad />
+    <cedulaSeguridad>   -       -</cedulaSeguridad>
+    <nombreEncargadoOficinaT />
+    <cedulaEncargadoOficinaT>   -       -</cedulaEncargadoOficinaT>
+    <nombreEncargadoTopoG />
+    <nombreArqResidente1 />
+    <cedulaArqResidente1>   -       -</cedulaArqResidente1>
+    <nombreArqResidente2 />
+    <cedulaArqResidente2>   -       -</cedulaArqResidente2>
+    <nombreArqResidente3 />
+    <cedulaArqResidente3>   -       -</cedulaArqResidente3>
+    <nombreAgeDesignado1 />
+    <nombreAgeDesignado2 />
+    <nombreAgeDesignado3 />
+    <estado>ACTIVO                   </estado>
+  </Table>
+  <Table>
+    <id_Empresa>12</id_Empresa>
+    <nombreEmpresa>Pb company</nombreEmpresa>
+    <nombreLogo>C:\Users\LocalAdmin\Downloads\Desktop\LICITACION\Pla&amp;ProSoft\LOGOS INSTITUCIONES\Logo Armada Republica Dominicana.png</nombreLogo>
+    <rnc>12346</rnc>
+    <rpe>55555</rpe>
+    <direccion>ccc</direccion>
+    <telefono />
+    <nombreFiador>Raul</nombreFiador>
+    <cedulaFiador>031-0202535-4</cedulaFiador>
+    <nombreRepresentanteLegal>pablo</nombreRepresentanteLegal>
+    <correoEmpresa>gg@gmail.com</correoEmpresa>
+    <enmiendas>algnas</enmiendas>
+    <nombreDirectorProyecto>Reinoso</nombreDirectorProyecto>
+    <cedulaDirector>111-1111111-1</cedulaDirector>
+    <nombreIngResidente1>tuty</nombreIngResidente1>
+    <cedulaIngResidente1>222-2222222-2</cedulaIngResidente1>
+    <nombreIngResidente2>lary</nombreIngResidente2>
+    <cedulaIngResidente2>222-2222222-2</cedulaIngResidente2>
+    <nombreIngResidente3>444-4444444-4</nombreIngResidente3>
+    <cedulaIngResidente3>444-4444444-4</cedulaIngResidente3>
+    <nombreSeguridad>Celewste</nombreSeguridad>
+    <cedulaSeguridad>444-4444444-</cedulaSeguridad>
+    <nombreEncargadoOficinaT>belqu</nombreEncargadoOficinaT>
+    <cedulaEncargadoOficinaT>999-9999999-9</cedulaEncargadoOficinaT>
+    <nombreEncargadoTopoG>dALQUI tineo</nombreEncargadoTopoG>
+    <nombreArqResidente1>tuty</nombreArqResidente1>
+    <cedulaArqResidente1>222-2222222-2</cedulaArqResidente1>
+    <nombreArqResidente2>lary</nombreArqResidente2>
+    <cedulaArqResidente2>222-2222222-2</cedulaArqResidente2>
+    <nombreArqResidente3>444-4444444-4</nombreArqResidente3>
+    <cedulaArqResidente3>444-4444444-4</cedulaArqResidente3>
+    <nombreAgeDesignado1>yASSER</nombreAgeDesignado1>
+    <nombreAgeDesignado2>CILO</nombreAgeDesignado2>
+    <nombreAgeDesignado3>SHIT</nombreAgeDesignado3>
+    <estado>ACTIVO                   </estado>
+  </Table>
+  <Table>
+    <id_Empresa>13</id_Empresa>
+    <nombreEmpresa>EMPRESA XYZ</nombreEmpresa>
+    <nombreLogo />
+    <rnc />
+    <rpe />
+    <direccion>Santigo</direccion>
+    <telefono />
+    <nombreFiador />
+    <cedulaFiador>   -       -</cedulaFiador>
+    <nombreRepresentanteLegal />
+    <correoEmpresa>xyyyz@gmail.com</correoEmpresa>
+    <enmiendas />
+    <nombreDirectorProyecto />
+    <cedulaDirector>   -       -</cedulaDirector>
+    <nombreIngResidente1 />
+    <cedulaIngResidente1>   -       -</cedulaIngResidente1>
+    <nombreIngResidente2 />
+    <cedulaIngResidente2>   -       -</cedulaIngResidente2>
+    <nombreIngResidente3 />
+    <cedulaIngResidente3>   -       -</cedulaIngResidente3>
+    <nombreSeguridad />
+    <cedulaSeguridad>   -       -</cedulaSeguridad>
+    <nombreEncargadoOficinaT />
+    <cedulaEncargadoOficinaT>   -       -</cedulaEncargadoOficinaT>
+    <nombreEncargadoTopoG />
+    <nombreArqResidente1 />
+    <cedulaArqResidente1>   -       -</cedulaArqResidente1>
+    <nombreArqResidente2 />
+    <cedulaArqResidente2>   -       -</cedulaArqResidente2>
+    <nombreArqResidente3 />
+    <cedulaArqResidente3>   -       -</cedulaArqResidente3>
+    <nombreAgeDesignado1 />
+    <nombreAgeDesignado2 />
+    <nombreAgeDesignado3 />
+    <estado>ACTIVO                   </estado>
+  </Table>
+</NewDataSet>

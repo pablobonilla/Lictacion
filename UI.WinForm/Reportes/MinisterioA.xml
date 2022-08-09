@@ -1,0 +1,90 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <id_Ministerio>1</id_Ministerio>
+    <nombreMinisterio>mimi</nombreMinisterio>
+    <email>hh</email>
+    <direccion>hhhhh</direccion>
+  </Table>
+  <Table>
+    <id_Ministerio>2</id_Ministerio>
+    <nombreMinisterio>gggg</nombreMinisterio>
+    <email>p@gmail.com</email>
+    <direccion>System.Windows.Forms.TextBox, Text: hkjjhkhkj
+jghjj</direccion>
+    <telefono>809525866</telefono>
+    <estado>ACTIVO</estado>
+  </Table>
+  <Table>
+    <id_Ministerio>3</id_Ministerio>
+    <nombreMinisterio>UUUDUD</nombreMinisterio>
+    <email>p@mail.com</email>
+    <direccion>DHDDHH</direccion>
+    <telefono />
+    <estado>ACTIVO</estado>
+  </Table>
+  <Table>
+    <id_Ministerio>4</id_Ministerio>
+    <nombreMinisterio>hyy</nombreMinisterio>
+    <email>ggg@gmail.com</email>
+    <direccion>bvv</direccion>
+    <telefono>444444444444</telefono>
+    <estado>ACTIVO</estado>
+  </Table>
+  <Table>
+    <id_Ministerio>5</id_Ministerio>
+    <nombreMinisterio>rrr</nombreMinisterio>
+    <email>ff@gmail.com</email>
+    <direccion>fff</direccion>
+    <telefono />
+    <estado>INACTIVO</estado>
+  </Table>
+  <Table>
+    <id_Ministerio>6</id_Ministerio>
+    <nombreMinisterio>hhhhhhhhhhhhh</nombreMinisterio>
+    <email>c@gmail.com</email>
+    <direccion>cccccccccccccc</direccion>
+    <telefono />
+    <estado>INACTIVO</estado>
+  </Table>
+  <Table>
+    <id_Ministerio>7</id_Ministerio>
+    <nombreMinisterio>yyyyyyyyyy</nombreMinisterio>
+    <email>er@gmail.com</email>
+    <direccion>ggggggggggggggggg</direccion>
+    <telefono />
+    <estado>ACTIVO</estado>
+  </Table>
+  <Table>
+    <id_Ministerio>8</id_Ministerio>
+    <nombreMinisterio>MINISTERIO DE LA JUVENTUD</nombreMinisterio>
+    <email>zz@gmail.com</email>
+    <direccion>zzz
+</direccion>
+    <telefono>7777777</telefono>
+    <estado>ACTIVO</estado>
+  </Table>
+  <Table>
+    <id_Ministerio>9</id_Ministerio>
+    <nombreMinisterio>COMPRAS Y CONTRATACIONES</nombreMinisterio>
+    <email>sd@gmail.com</email>
+    <nombreLogo>C:\Users\LocalAdmin\Downloads\Desktop\LICITACION\Pla&amp;ProSoft\LOGOS INSTITUCIONES\Logo Compras y contrataciones.png</nombreLogo>
+    <direccion>DN</direccion>
+    <telefono>809-582-9633</telefono>
+    <estado>ACTIVO</estado>
+  </Table>
+  <Table>
+    <id_Ministerio>10</id_Ministerio>
+    <nombreMinisterio>INSTITUTO NACIONAL DE LA VIVIENDA</nombreMinisterio>
+    <email>mm@gmail.com</email>
+    <nombreLogo>C:\Users\LocalAdmin\Downloads\Desktop\LICITACION\Pla&amp;ProSoft\LOGOS INSTITUCIONES\Logo INVI.png</nombreLogo>
+    <direccion>SANTO DOMINGO</direccion>
+    <telefono>88888</telefono>
+    <estado>ACTIVO</estado>
+  </Table>
+  <Table>
+    <id_Ministerio>11</id_Ministerio>
+    <nombreMinisterio>  Seleccionar Ministerio</nombreMinisterio>
+    <estado>ACTIVO</estado>
+  </Table>
+</NewDataSet>

@@ -1,0 +1,217 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <id_Proyecto>1</id_Proyecto>
+    <nombreProyecto>Pablos Ptoy</nombreProyecto>
+    <nombreEmpresa>Empresa1</nombreEmpresa>
+    <nombreMinisterio>COMPRAS Y CONTRATACIONES</nombreMinisterio>
+    <montoApropiacion>1500</montoApropiacion>
+    <montoGanador>1350</montoGanador>
+    <proceso />
+    <garantiaSeriedadOferta />
+    <garantiaFielCumplimiento />
+    <porcientoAnticipo />
+    <numCopiasSobreA />
+    <numCopiasSobreB />
+    <tiempoMantenimientoOferta />
+    <vigenciaPoliza />
+    <aperturaSobreA />
+    <aperturaSobreB />
+    <tiempoEjecucionObra />
+    <diaVisitaObra />
+    <direccionVisitaObra />
+    <fechaEntregaSobreA />
+    <fechaEntregaSobreB />
+    <Fecha>1900-01-01T00:00:00-04:00</Fecha>
+    <Motivo>MOTIVO</Motivo>
+    <id_Empresa>1</id_Empresa>
+    <id_Ministerio>9</id_Ministerio>
+  </Table>
+  <Table>
+    <id_Proyecto>5</id_Proyecto>
+    <nombreProyecto>Proyecto 158</nombreProyecto>
+    <nombreEmpresa>Empresa1</nombreEmpresa>
+    <nombreMinisterio>MINISTERIO DE LA JUVENTUD</nombreMinisterio>
+    <montoApropiacion>2000</montoApropiacion>
+    <montoGanador>3000</montoGanador>
+    <proceso>14</proceso>
+    <garantiaSeriedadOferta>25 %</garantiaSeriedadOferta>
+    <garantiaFielCumplimiento>80%</garantiaFielCumplimiento>
+    <porcientoAnticipo>15%</porcientoAnticipo>
+    <numCopiasSobreA>5</numCopiasSobreA>
+    <numCopiasSobreB>5</numCopiasSobreB>
+    <tiempoMantenimientoOferta>11</tiempoMantenimientoOferta>
+    <vigenciaPoliza>Poliza</vigenciaPoliza>
+    <aperturaSobreA>10 dias</aperturaSobreA>
+    <aperturaSobreB>11</aperturaSobreB>
+    <tiempoEjecucionObra>12</tiempoEjecucionObra>
+    <diaVisitaObra>12</diaVisitaObra>
+    <direccionVisitaObra>12</direccionVisitaObra>
+    <fechaEntregaSobreA>13</fechaEntregaSobreA>
+    <fechaEntregaSobreB>13</fechaEntregaSobreB>
+    <Fecha>1900-01-01T00:00:00-04:00</Fecha>
+    <Motivo>motive</Motivo>
+    <id_Empresa>1</id_Empresa>
+    <id_Ministerio>8</id_Ministerio>
+  </Table>
+  <Table>
+    <id_Proyecto>8</id_Proyecto>
+    <nombreProyecto>Proyecto Uno</nombreProyecto>
+    <nombreEmpresa>Empresa1</nombreEmpresa>
+    <nombreMinisterio>INSTITUTO NACIONAL DE LA VIVIENDA</nombreMinisterio>
+    <montoApropiacion>9999</montoApropiacion>
+    <montoGanador>999</montoGanador>
+    <proceso />
+    <garantiaSeriedadOferta>ggggggggggg</garantiaSeriedadOferta>
+    <garantiaFielCumplimiento />
+    <porcientoAnticipo />
+    <numCopiasSobreA />
+    <numCopiasSobreB />
+    <tiempoMantenimientoOferta />
+    <vigenciaPoliza />
+    <aperturaSobreA />
+    <aperturaSobreB />
+    <tiempoEjecucionObra />
+    <diaVisitaObra />
+    <direccionVisitaObra />
+    <fechaEntregaSobreA />
+    <fechaEntregaSobreB />
+    <Fecha>1900-01-01T00:00:00-04:00</Fecha>
+    <Motivo />
+    <id_Empresa>1</id_Empresa>
+    <id_Ministerio>10</id_Ministerio>
+  </Table>
+  <Table>
+    <id_Proyecto>9</id_Proyecto>
+    <nombreProyecto>Miriams</nombreProyecto>
+    <nombreEmpresa>Empresa1</nombreEmpresa>
+    <nombreMinisterio>COMPRAS Y CONTRATACIONES</nombreMinisterio>
+    <montoApropiacion>0</montoApropiacion>
+    <montoGanador>0</montoGanador>
+    <proceso />
+    <garantiaSeriedadOferta />
+    <garantiaFielCumplimiento />
+    <porcientoAnticipo />
+    <numCopiasSobreA />
+    <numCopiasSobreB />
+    <tiempoMantenimientoOferta />
+    <vigenciaPoliza />
+    <aperturaSobreA />
+    <aperturaSobreB />
+    <tiempoEjecucionObra />
+    <diaVisitaObra />
+    <direccionVisitaObra />
+    <fechaEntregaSobreA />
+    <fechaEntregaSobreB />
+    <Fecha>2022-07-19T13:31:39-04:00</Fecha>
+    <Motivo />
+    <id_Empresa>1</id_Empresa>
+    <id_Ministerio>9</id_Ministerio>
+  </Table>
+  <Table>
+    <id_Proyecto>11</id_Proyecto>
+    <nombreProyecto>ggg</nombreProyecto>
+    <nombreEmpresa>Pb company</nombreEmpresa>
+    <nombreMinisterio>COMPRAS Y CONTRATACIONES</nombreMinisterio>
+    <montoApropiacion>0</montoApropiacion>
+    <montoGanador>0</montoGanador>
+    <proceso />
+    <garantiaSeriedadOferta />
+    <garantiaFielCumplimiento />
+    <porcientoAnticipo />
+    <numCopiasSobreA />
+    <numCopiasSobreB />
+    <tiempoMantenimientoOferta />
+    <vigenciaPoliza />
+    <aperturaSobreA />
+    <aperturaSobreB />
+    <tiempoEjecucionObra />
+    <diaVisitaObra />
+    <fechaEntregaSobreA />
+    <fechaEntregaSobreB />
+    <Fecha>2022-07-19T18:15:19-04:00</Fecha>
+    <Motivo />
+    <id_Empresa>12</id_Empresa>
+    <id_Ministerio>9</id_Ministerio>
+  </Table>
+  <Table>
+    <id_Proyecto>12</id_Proyecto>
+    <nombreProyecto>ddd</nombreProyecto>
+    <nombreEmpresa>Pb company</nombreEmpresa>
+    <nombreMinisterio>INSTITUTO NACIONAL DE LA VIVIENDA</nombreMinisterio>
+    <montoApropiacion>0</montoApropiacion>
+    <montoGanador>0</montoGanador>
+    <proceso />
+    <garantiaSeriedadOferta>20%</garantiaSeriedadOferta>
+    <garantiaFielCumplimiento />
+    <porcientoAnticipo />
+    <numCopiasSobreA />
+    <numCopiasSobreB />
+    <tiempoMantenimientoOferta />
+    <vigenciaPoliza />
+    <aperturaSobreA />
+    <aperturaSobreB />
+    <tiempoEjecucionObra />
+    <diaVisitaObra />
+    <direccionVisitaObra />
+    <fechaEntregaSobreA />
+    <fechaEntregaSobreB />
+    <Fecha>2022-07-19T18:19:49-04:00</Fecha>
+    <Motivo />
+    <id_Empresa>12</id_Empresa>
+    <id_Ministerio>10</id_Ministerio>
+  </Table>
+  <Table>
+    <id_Proyecto>13</id_Proyecto>
+    <nombreProyecto>nuevo proyecto</nombreProyecto>
+    <nombreEmpresa>Pb company</nombreEmpresa>
+    <nombreMinisterio>COMPRAS Y CONTRATACIONES</nombreMinisterio>
+    <montoApropiacion>0</montoApropiacion>
+    <montoGanador>0</montoGanador>
+    <proceso />
+    <garantiaSeriedadOferta />
+    <garantiaFielCumplimiento />
+    <porcientoAnticipo />
+    <numCopiasSobreA />
+    <numCopiasSobreB />
+    <tiempoMantenimientoOferta />
+    <vigenciaPoliza />
+    <aperturaSobreA />
+    <aperturaSobreB />
+    <tiempoEjecucionObra />
+    <diaVisitaObra />
+    <fechaEntregaSobreA />
+    <fechaEntregaSobreB />
+    <Fecha>2022-07-19T18:20:12-04:00</Fecha>
+    <Motivo />
+    <id_Empresa>12</id_Empresa>
+    <id_Ministerio>9</id_Ministerio>
+  </Table>
+  <Table>
+    <id_Proyecto>14</id_Proyecto>
+    <nombreProyecto>DD</nombreProyecto>
+    <nombreEmpresa>Pb company</nombreEmpresa>
+    <nombreMinisterio>INSTITUTO NACIONAL DE LA VIVIENDA</nombreMinisterio>
+    <montoApropiacion>0</montoApropiacion>
+    <montoGanador>0</montoGanador>
+    <proceso />
+    <garantiaSeriedadOferta>20%</garantiaSeriedadOferta>
+    <garantiaFielCumplimiento />
+    <porcientoAnticipo />
+    <numCopiasSobreA />
+    <numCopiasSobreB />
+    <tiempoMantenimientoOferta />
+    <vigenciaPoliza />
+    <aperturaSobreA />
+    <aperturaSobreB />
+    <tiempoEjecucionObra />
+    <diaVisitaObra />
+    <direccionVisitaObra />
+    <fechaEntregaSobreA />
+    <fechaEntregaSobreB />
+    <Fecha>2022-07-19T22:53:25-04:00</Fecha>
+    <Motivo />
+    <id_Empresa>12</id_Empresa>
+    <id_Ministerio>10</id_Ministerio>
+  </Table>
+</NewDataSet>
